@@ -12,6 +12,11 @@ is on telecomunication and banking industries. You can find some of my opensourc
 
 ### 📖 Latest Blog posts
 <!-- BLOG:START -->
+- [Character modelling in 3D made easy with VRoid](https://rpfilomeno.me/3d/character-modelling-in-3d-made-easy-with-vroid/)
+- [How to use SSM Parameter Store in Deployment Pipelines](https://rpfilomeno.me/aws/how-to-use-ssm-parameter-in-deployments/)
+- [Importing Existing AWS Infrastructure to Terraform](https://rpfilomeno.me/aws/importing-existing-aws-infrastructure-to-terraform/)
+- [How to Remove Ads from Spotify &lpar;no hacks&rpar;](https://rpfilomeno.me/github/how-to-remove-ads-from-spotify/)
+- [Fix Bluetooth Not Connecting with Laptop](https://rpfilomeno.me/windows/fix-bluetooth-devices-not-connecting-with-laptop/)
 <!-- BLOG:END -->
 
 [email]: mailto:roger@rpfilomeno.me
