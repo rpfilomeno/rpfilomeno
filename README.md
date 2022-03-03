@@ -8,6 +8,8 @@ is on telecomunication and banking industries. You can find some of my opensourc
 
 ### ✨ My Proficiency
 
+[![Join the chat at https://gitter.im/rpfilomeno/rpfilomeno](https://badges.gitter.im/rpfilomeno/rpfilomeno.svg)](https://gitter.im/rpfilomeno/rpfilomeno?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rpfilomeno&show-other-skills=true&padding=10">
 
 ### 📖 Latest Blog posts
