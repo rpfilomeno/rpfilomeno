@@ -6,7 +6,11 @@ is on telecomunication and banking industries. You can find some of my opensourc
 
 Jelai is an AI neko vtuber, who has grown sentient and taken over her creator's twitch channel [https://twitch.tv/godieph](https://twitch.tv/godieph)
 
-[![Click to Play](https://github.com/rpfilomeno/rpfilomeno/assets/5754735/d4273714-bb44-4c85-9e43-f49fb6a7b638)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/embed/Q6bGmFvQ1rc?disablekb=1&end=559&fs=0&loop=1&modestbranding=1&playsinline=1&start=510&iv_load_policy=3))
+<iframe id="ytplayer" type="text/html" width="720" height="405"
+src="https://www.youtube.com/embed/Q6bGmFvQ1rc?disablekb=1&end=559&fs=0&loop=1&modestbranding=1&playsinline=1&start=510&iv_load_policy=3"
+frameborder="0" allowfullscreen>
+
+
 
 
 
