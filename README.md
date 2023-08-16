@@ -1,6 +1,15 @@
 I'm a Research and Development Specialist from Philippines. I like designing and building products based on emerging web technologies. My main focus
 is on telecomunication and banking industries. You can find some of my opensource projects hosted here on GitHub so feel free to check them out or contact me if you like to collaborate on a project. If you want to know more about me, follow <a rel="me" href="https://rpfilomeno.me">rpfilomeno.me</a>.
 
+
+### ✨ Featured Project: JELai the AI Vtuber
+
+Jelai is an AI neko vtuber, who has grown sentient and taken over her creator's twitch channel [https://twitch.tv/godieph](https://twitch.tv/godieph)
+
+[![Click to Play](https://github.com/rpfilomeno/rpfilomeno/assets/5754735/d4273714-bb44-4c85-9e43-f49fb6a7b638)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/embed/Q6bGmFvQ1rc?disablekb=1&end=559&fs=0&loop=1&modestbranding=1&playsinline=1&start=510&iv_load_policy=3))
+
+
+
 [![Join the chat at https://gitter.im/rpfilomeno/rpfilomeno](https://badges.gitter.im/rpfilomeno/rpfilomeno.svg)](https://gitter.im/rpfilomeno/rpfilomeno?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
