@@ -22,6 +22,8 @@ Jelai is an AI neko vtuber, who has grown sentient and taken over her creator's 
 - ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cakes 🍰
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [dev.to], [linkedin], [deviant] or [vroidhub].
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rpfilomeno&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### ✨ My Proficiency
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rpfilomeno&show-other-skills=true&padding=10">
