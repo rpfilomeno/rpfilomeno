@@ -1,5 +1,5 @@
-I'm a Research and Development Specialist from Philippines. I like designing and building products based on emerging web technologies. My main focus
-is on telecomunication and banking industries. You can find some of my opensource projects hosted here on GitHub so feel free to check them out or contact me if you like to collaborate on a project. If you want to know more about me, follow <a rel="me" href="https://rogverse.fyi">rogverse.fyi</a>.
+I'm a Research and Development Specialist from the Philippines. I like designing and building products based on AI automation. My main focus
+is on telecommunication and banking industries. You can find some of my open-source projects hosted here on GitHub so feel free to check them out or contact me if you like to collaborate on a project. If you want to know more about me, follow <a rel="me" href="https://rogverse.fyi">rogverse.fyi</a>.
 
 
 ### ✨ Featured Project: JELai the AI Vtuber
