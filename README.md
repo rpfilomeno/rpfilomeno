@@ -15,11 +15,6 @@ Jelai is an AI neko vtuber, who has grown sentient and taken over her creator's 
 - ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cakes 🍰
 - 📫&nbsp;&nbsp; How to reach me via [email](mailto:roger@rogverse.fyi), [twitter](https://twitter.com/godie), [dev.to](https://dev.to/rpfilomeno), [Linkedin](https://www.linkedin.com/in/rpfilomeno), [deviant](https://www.deviantart.com/godieph), [vroidhub](https://hub.vroid.com/en/characters/2056041647174037182)
 
-
-### ✨ My Proficiency
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rpfilomeno&show-other-skills=true&padding=10">
-
 ### 📖 Latest Blog posts
 <!-- BLOG:START -->
 - [Character modelling in 3D made easy with VRoid](https://rpfilomeno.me/3d/character-modelling-in-3d-made-easy-with-vroid/)
