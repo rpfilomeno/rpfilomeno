@@ -1,4 +1,6 @@
-I'm a Research and Development Specialist from the Philippines. I like designing and building products based on AI automation. My main focus
+<a href="https://app.daily.dev/godieph"><img src="https://api.daily.dev/devcards/v2/nuz2DyOpOCneY1So04Kic.png?type=wide&r=dxr" width="652" alt="Roger Filomeno (GoDie)'s Dev Card"/></a>
+
+I like designing and building products based on AI automation. My main focus
 is on telecommunication and banking industries. You can find some of my open-source projects hosted here on GitHub so feel free to check them out or contact me if you like to collaborate on a project. If you want to know more about me, follow <a rel="me" href="https://rogverse.fyi">rogverse.fyi</a>.
 
 
