@@ -19,11 +19,11 @@ Jelai is an AI neko vtuber, who has grown sentient and taken over her creator's 
 
 ### 📖 Latest Blog posts
 <!-- BLOG:START -->
+- [Stop Grabbing Your Phone Every Time It Beeps:  Using AI Automation with Durable Workflows](https://roger.rogverse.fyi/stop-grabbing-your-phone-every-time-it-beeps-why-using-ai-automation-withdurable-workflows-is-non-negotiable.html)
 - [21 Years as a Systems Engineer: Hard-Won Lessons from the Trenches &amp; Mentors](https://roger.rogverse.fyi/21-years-as-a-systems-engineer-hard-won-lessons-from-the-trenches.html)
 - [Connecting Your Joplin Notes to Claude: Building an MCP Server in Go](https://roger.rogverse.fyi/connecting-your-joplin-notes-to-claude-building-an-mcp-server-in-go.html)
 - [ProxiFyre: Force Any Windows App/Process To Use A Socks5 Proxy](https://roger.rogverse.fyi/proxifyre-force-any-appprocess-windows-to-use-a-socks5-proxy.html)
 - [The AI Shift Nobody&#39;s Talking About: Why We&#39;re Not Ready for What&#39;s Coming](https://roger.rogverse.fyi/the-ai-shift-nobodys-talking-about-why-were-not-ready-for-whats-coming.html)
-- [Philippines Companies Using AI in Hiring](https://roger.rogverse.fyi/philippines-companies-using-ai-in-hiring.html)
 <!-- BLOG:END -->
 
 
