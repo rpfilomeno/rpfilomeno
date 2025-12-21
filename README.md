@@ -19,11 +19,11 @@ Jelai is an AI neko vtuber, who has grown sentient and taken over her creator's 
 
 ### 📖 Latest Blog posts
 <!-- BLOG:START -->
+- [Training LLMs Cant Achieve AGI, We Need to Grow It.](https://roger.rogverse.fyi/training-llms-cant-achieve-agi-we-need-to-grow-it.html)
 - [The Universal Approximation Theorem: The Mathematical Fact that Proves AGI is Possible, and the Economic Reality that Keeps it Locked Away](https://roger.rogverse.fyi/the-universal-approximation-theorem-the-mathematical-fact-that-proves-agi-is-possible-and-the-economic-reality-that-keeps-it-locked-away.html)
 - [Stop Grabbing Your Phone Every Time It Beeps:  Using AI Automation with Durable Workflows](https://roger.rogverse.fyi/stop-grabbing-your-phone-every-time-it-beeps-why-using-ai-automation-withdurable-workflows-is-non-negotiable.html)
 - [21 Years as a Systems Engineer: Hard-Won Lessons from the Trenches &amp; Mentors](https://roger.rogverse.fyi/21-years-as-a-systems-engineer-hard-won-lessons-from-the-trenches.html)
 - [Connecting Your Joplin Notes to Claude: Building an MCP Server in Go](https://roger.rogverse.fyi/connecting-your-joplin-notes-to-claude-building-an-mcp-server-in-go.html)
-- [ProxiFyre: Force Any Windows App/Process To Use A Socks5 Proxy](https://roger.rogverse.fyi/proxifyre-force-any-appprocess-windows-to-use-a-socks5-proxy.html)
 <!-- BLOG:END -->
 
 
